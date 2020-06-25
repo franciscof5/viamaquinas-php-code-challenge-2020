@@ -50,7 +50,3 @@ Requisitos técnicos
 Pode acessar temporarimanete a aplicação pelo endereço
 
 https://www.franciscomatelli.com.br/viamaquinas/
-
-### Agradecimentos
-
-Yuri Matelli Calazans Luz, Plape BI
