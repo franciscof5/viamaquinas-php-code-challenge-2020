@@ -38,12 +38,12 @@ Requisitos técnicos
 
 ## Instalação
 
-´´´
+''' 
 * Criar um banco no MariaDB ou MySQL e rodar o dump para criar as tabelas
 ** um usuario francisco com senha francisco é criado
 * Configurar o arquivo config.php com os dados do seu banco
 * Acessar o serviço
-´´´
+'''
 
 ## Versão online
 
